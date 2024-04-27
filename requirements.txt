@@ -1,0 +1,7 @@
+jupyter
+jupyterlab
+langchain
+langchain-community
+beautifulsoup4
+faiss-gpu
+langchain-text-splitters
