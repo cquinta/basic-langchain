@@ -5,3 +5,7 @@ langchain-community
 beautifulsoup4
 faiss-gpu
 langchain-text-splitters
+langchain-openai
+python-dotenv
+langserve[all]
+langchainhub
